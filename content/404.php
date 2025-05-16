@@ -61,3 +61,16 @@
   </div>
 </body>
 </html>
+<?php
+// content/404.php
+?>
+
+<section class="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-900 to-blue-700 text-white">
+  <div class="max-w-md p-8 bg-black bg-opacity-30 rounded-2xl shadow-lg backdrop-blur-md text-center">
+    <h1 class="text-8xl font-extrabold mb-4">404</h1>
+    <p class="text-lg mb-6">Oops… la página que buscas no fue encontrada.</p>
+    <a href="/" class="inline-block bg-white text-blue-900 font-semibold px-6 py-3 rounded-lg hover:bg-gray-200 transition">
+      Volver al inicio
+    </a>
+  </div>
+</section>
